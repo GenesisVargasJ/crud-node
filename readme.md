@@ -10,6 +10,7 @@ This node.js example app shows the very basics functions of a CRUD with auth:
 ## Configuration
 
 Step 1: Setup the postgres database with the crud.sql file
+
 Step 2: Edit .env file and inject your credentials like this
 ```
 NODE_APP_DATABASE_HOST=<DATABASE_HOST>
