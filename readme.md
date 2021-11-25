@@ -1,4 +1,5 @@
 ## CRUD node.js example app
+
 This node.js example app shows the very basics functions of a CRUD with auth:
 
 - Login auth with JWT
@@ -21,13 +22,18 @@ NODE_APP_DATABASE_PASWWORD=<DATABASE_PASWWORD>
 ```
 
 ## Installation
+
 Follow the steps for app test
 
-Step 1: Install project
+Step 1: Clone this repo
+
+Step 2: Open shell window and navigate to project folder
+
+Step 3: Install project
 ```bash
 npm install
 ```
-Step 2: Run app
+Step 4: Run app
 ```bash
 npm run start
 ```
